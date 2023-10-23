@@ -21,3 +21,16 @@ git clone https://github.com/PaulReshetnikov/Weather
 ```shell
 pip install -r requirements.txt
 ```
+
+## Запуск проектов
+### Для запуска проекта Django выполните:
+```shell
+python manage.py runserver
+```
+### Для запуска чат-бота:
+```shell
+python main.py
+```
+## Доступ проектов
+-  Проект Django будет доступен по адресу http://localhost:8000/.
+-  Чат-бот будет запущен и готов к использованию.
