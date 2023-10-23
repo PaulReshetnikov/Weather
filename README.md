@@ -37,7 +37,7 @@ python main.py
 
 ## API
 - Для получения погоды по выбранной локации выполните запрос(на данный момент тестово работает на Калининграде, Москве и Набережных Челнах)
-- /weather?city="city name" где "city name" - это название города на русском языке
+- api/weather?city="city name" где "city name" - это название города на русском языке
 ```
-/weather?city=<city name>
+api/weather?city=<city name>
 ```
